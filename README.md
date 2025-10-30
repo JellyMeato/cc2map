@@ -1,1 +1,1 @@
-The link to the project webpage: https://github.com/JellyMeato/cc2map
+The link to the project webpage: https://jellymeato.github.io/cc2map/
